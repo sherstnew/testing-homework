@@ -3,3 +3,5 @@ dist
 NOTES.md
 Dockerfile
 .dockerignore
+
+/test/hermione/hermione/screens
